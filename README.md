@@ -1,3 +1,4 @@
 # pytest
-PyTest - параметризация, конфигурирование, плагины
-Решение задания по PyTest, урок https://stepik.org/lesson/237240/step/9?unit=209628
+PyTest - Применение паттерна Page Object Model.
+
+Решение заданий по PyTest, уроки https://stepik.org/lesson/199980/step/1?unit=174035
